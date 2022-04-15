@@ -59,7 +59,7 @@ def getConfiguration():
     # Check if config exists / create
     if not exists(f'{homep}/rust_data/config.cfg'):
         print("Generating new configuration file..\n")
-        C = ["-server.port 28015\n","-app.port 28016"]
+        C = ["+server.port 28015\n","+app.port 28016"]
         conf = open(f'{homep}/rust_data/config.cfg', 'w')
         conf.writelines(C)
         conf.close()
