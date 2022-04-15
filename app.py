@@ -15,9 +15,6 @@ curl = 'addons\\curl\\curl.exe'
 zip = 'addons\\7zip\\7za.exe'
 
 def main():
-    work()
-
-def work():
     # Create rust_data directory
     
     if not os.path.isdir(f'{home}/rust_data'):
