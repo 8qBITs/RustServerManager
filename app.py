@@ -1,4 +1,7 @@
-import ctypes
+#
+# Owned & Maintained by https://github.com/8qBITs Discord: 8qBIT#0101
+#
+
 import subprocess
 from subprocess import Popen, CREATE_NEW_CONSOLE
 import os
@@ -10,7 +13,6 @@ homep = os.getcwd().replace("\\", "/")
 steam = 'addons\\steam\\steamcmd.exe'
 curl = 'addons\\curl\\curl.exe'
 zip = 'addons\\7zip\\7za.exe'
-server = 'RustDedicated.exe'
 
 def main():
     work()
@@ -51,10 +53,7 @@ def work():
 
     generateStartupBatchFile()
     startServer()
-    
-    # Reboot
-    
-    #main()
+
 
 def getConfiguration():
     # Check if config exists / create
