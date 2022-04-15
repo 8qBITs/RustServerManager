@@ -1,5 +1,5 @@
-# RustServerManager 
-A tool designed to Install, Update, Auto start RUST servers.. on Windows that is.
+# RustServerManager for Windows
+A tool designed to Install, Update, Auto start RUST servers!
 
 RustServerManager is a extremely light-weight, simplistic & efficient Wrapper for RUST servers hosted on Windows.
 
