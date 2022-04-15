@@ -36,8 +36,8 @@ def work():
     subprocess.call(f'{curl} -SL -A "Mozilla/5.0" "https://umod.org/games/rust/download" --output "{homep}/rust_data/oxidemod.zip"', shell=False)
     subprocess.call(f'{zip} x "{homep}/rust_data\oxidemod.zip" -o"{homep}/rust_data/" -y', shell=False)
     
-    # Windows broken cannot delete file
-    #os.remove(f'"{homep}/rust_data/oxidemod.zip"')
+    # Delete leftover zip
+    os.remove(f'{homep}/rust_data/oxidemod.zip')
 
     # Install RustEdit
 

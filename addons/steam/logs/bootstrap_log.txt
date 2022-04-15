@@ -1049,3 +1049,21 @@
 [2022-04-15 21:41:12] Verifying installation...
 [2022-04-15 21:41:12] Performing checksum verification of executable files
 [2022-04-15 21:41:12] Verification complete
+
+
+[2022-04-15 22:01:58] Startup - updater built Mar 23 2022 15:53:19
+[2022-04-15 22:01:58] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2022-04-15 22:01:58] Using the following download hosts for Public, Realm steamglobal
+[2022-04-15 22:01:58] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-04-15 22:01:58] Checking for update on startup
+[2022-04-15 22:01:58] Checking for available updates...
+[2022-04-15 22:01:58] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2022-04-15 22:01:58] Manifest download: send request
+[2022-04-15 22:01:58] Manifest download: waiting for download to finish
+[2022-04-15 22:02:01] Manifest download: finished
+[2022-04-15 22:02:01] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-04-15 22:02:01] Nothing to do
+[2022-04-15 22:02:01] Verifying installation...
+[2022-04-15 22:02:01] Performing checksum verification of executable files
+[2022-04-15 22:02:01] Verification complete
+[2022-04-15 22:03:38] Shutdown

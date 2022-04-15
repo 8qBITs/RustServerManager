@@ -625,3 +625,16 @@
 [2022-04-15 21:41:12] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
 [2022-04-15 21:41:13] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
 [2022-04-15 21:41:13] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+
+
+[2022-04-15 22:02:01] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+[2022-04-15 22:02:01] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+[2022-04-15 22:02:01] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+[2022-04-15 22:02:01] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+[2022-04-15 22:02:02] Loaded store 'install' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf' successfully
+[2022-04-15 22:02:03] Loaded store 'userlocal' from 'C:\Users\8qBIT\Desktop\server python\addons\steam\userdata\anonymous\config\localconfig.vdf' successfully
+[2022-04-15 22:02:03] Flushed store 'install' to 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf'
+[2022-04-15 22:02:03] Flushed store 'userlocal' to 'C:\Users\8qBIT\Desktop\server python\addons\steam\userdata\anonymous\config\localconfig.vdf'
+[2022-04-15 22:02:05] Flushed store 'userlocal' to 'C:\Users\8qBIT\Desktop\server python\addons\steam\userdata\anonymous\config\localconfig.vdf'
+[2022-04-15 22:02:43] Flushed store 'install' to 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf'
+[2022-04-15 22:03:13] Flushed store 'install' to 'C:\Users\8qBIT\Desktop\server python\addons\steam\config\config.vdf'

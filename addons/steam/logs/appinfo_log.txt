@@ -692,3 +692,17 @@
 [2022-04-15 21:39:22] Apps changed: 
 [2022-04-15 21:39:22] Change number 14531038->14531041, apps: 0/3, packages: 0/0
 [2022-04-15 21:39:22] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+
+
+[2022-04-15 22:02:03] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 22:02:03] Packages changed: force all
+[2022-04-15 22:02:03] Apps changed: 803050=14531100,622970=14531065,
+[2022-04-15 22:02:03] Change number 14531038->14531125, apps: 2/64, packages: 0/0
+[2022-04-15 22:02:03] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-15 22:02:04] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 22:02:04] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 22:02:04] UpdatesJob: finished OK, apps updated 2 (11 KB), packages updated 0 (0 KB)
+[2022-04-15 22:02:04] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 22:02:04] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 22:02:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 22:02:19] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)

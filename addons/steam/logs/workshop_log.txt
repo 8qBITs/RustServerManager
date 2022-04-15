@@ -171,3 +171,7 @@
 
 
 [2022-04-15 21:39:21] Loading workshop items for 1 installed apps for user [a:1:223532058]:
+
+
+[2022-04-15 22:02:03] Loading workshop items for 0 installed apps for user [a:1:106649607]:
+[2022-04-15 22:02:04] [AppID 258550] Loaded workshop items in "c:\users\8qbit\desktop\server python\rust_data\steamapps\workshop" (0 installed, 0 needed)

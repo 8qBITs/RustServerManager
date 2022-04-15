@@ -649,3 +649,48 @@
 
 
 [2022-04-15 21:39:21] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 22:02:03] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-15 22:02:04] AppID 258550 state changed : Update Required,
+[2022-04-15 22:02:04] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-15 22:02:04] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-15 22:02:04] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-15 22:02:05] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,Validating,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,Preallocating,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,
+[2022-04-15 22:02:05] AppID 258550 update started : download 0/2104571504, store 0/0, reuse 0/0, delta 0/0, stage 0/6490400045 
+[2022-04-15 22:02:05] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-15 22:02:05] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-15 22:02:05] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-15 22:02:05] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2022-04-15 22:02:05] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-15 22:02:05] Created download interface of type 'SteamCache' (7) to host cache3-fra2.steamcontent.com (cache3-fra2.steamcontent.com)
+[2022-04-15 22:02:05] Downloading 841 chunks from depot 258551
+[2022-04-15 22:02:05] Created ipv4-only http client
+[2022-04-15 22:02:24] Increasing target number of download connections to 4 (rate was 0.000, now 218.948)
+[2022-04-15 22:02:24] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-15 22:02:24] Downloading 6888 chunks from depot 258554
+[2022-04-15 22:03:23] AppID 258550 update changed : Running,
+[2022-04-15 22:03:23] AppID 258550 update changed : Running,Verifying,
+[2022-04-15 22:03:25] Current download rate: 0.000 Mbps
+[2022-04-15 22:03:36] Verified 6189 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6189 MB
+[2022-04-15 22:03:36] AppID 258550 update changed : Running,
+[2022-04-15 22:03:36] AppID 258550 update changed : Running,Committing,
+[2022-04-15 22:03:36] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-15 22:03:37] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-15 22:03:37] AppID 258550 finished update, 2 mounted depots (BuildID 8554350) : 258551 (638701802374650928),258554 (1442855323844572517),
+[2022-04-15 22:03:37] AppID 258550 update changed : Running,
+[2022-04-15 22:03:37] AppID 258550 update changed : None
+[2022-04-15 22:03:37] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-15 22:03:37] AppID 258550 state changed : Fully Installed,
+[2022-04-15 22:03:37] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-15 22:03:37] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+[2022-04-15 22:03:37] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (155.133.226.34:443 / 155.133.226.34:443, host: cache3-fra2.steamcontent.com): Closing connection
+[2022-04-15 22:03:37] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+[2022-04-15 22:03:37] HTTP (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.35:443 / 155.133.226.35:443, host: cache7-fra2.steamcontent.com): Closing connection
