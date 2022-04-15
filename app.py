@@ -79,7 +79,7 @@ def generateStartupBatchFile():
         conf.writelines(C)
         conf.close()
 
-def startServer(): # Start server using startup.bat and wait for it to finish before continuing
+def startServer(): # Start server using the generated startup.bat
     Popen(f'{homep}/rust_data/startup.bat', creationflags=CREATE_NEW_CONSOLE)
 
 main()
