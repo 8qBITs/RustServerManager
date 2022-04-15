@@ -1,0 +1,182 @@
+
+
+[2022-04-13 15:06:51] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:12:49] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:17:51] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:20:06] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:21:48] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:23:40] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:26:09] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:35:49] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:36:05] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:38:39] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:39:41] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:40:25] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:41:36] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:45:24] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:46:42] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:46:54] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 15:58:49] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 16:13:40] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 16:14:35] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:34:45] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:36:47] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:37:46] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:45:58] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:46:32] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:48:52] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:52:00] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:52:29] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:53:01] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:58:01] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 17:58:30] Couldn't bind to broadcast port 27036
+
+
+[2022-04-13 18:20:25] Couldn't bind to broadcast port 27036
+
+
+[2022-04-14 18:42:47] Couldn't bind to broadcast port 27036
+
+
+[2022-04-14 18:45:23] Couldn't bind to broadcast port 27036
+
+
+[2022-04-14 18:51:33] Couldn't bind to broadcast port 27036
+
+
+[2022-04-15 20:47:33] Generated client id: 1537957800227170906
+[2022-04-15 20:47:33] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 20:52:25] Loaded client id: 1537957800227170906
+[2022-04-15 20:52:25] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 20:55:23] Loaded client id: 1537957800227170906
+[2022-04-15 20:55:23] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 20:58:03] Loaded client id: 1537957800227170906
+[2022-04-15 20:58:03] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:06:01] Loaded client id: 1537957800227170906
+[2022-04-15 21:06:01] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:08:38] Loaded client id: 1537957800227170906
+[2022-04-15 21:08:38] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:10:35] Loaded client id: 1537957800227170906
+[2022-04-15 21:10:35] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:13:04] Loaded client id: 1537957800227170906
+[2022-04-15 21:13:04] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:13:52] Loaded client id: 1537957800227170906
+[2022-04-15 21:13:52] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:16:01] Loaded client id: 1537957800227170906
+[2022-04-15 21:16:01] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:19:34] Loaded client id: 1537957800227170906
+[2022-04-15 21:19:34] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:22:54] Loaded client id: 1537957800227170906
+[2022-04-15 21:22:54] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:24:05] Loaded client id: 1537957800227170906
+[2022-04-15 21:24:05] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:33:34] Loaded client id: 1537957800227170906
+[2022-04-15 21:33:34] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:34:41] Loaded client id: 1537957800227170906
+[2022-04-15 21:34:41] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:35:38] Loaded client id: 1537957800227170906
+[2022-04-15 21:35:38] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:37:06] Loaded client id: 1537957800227170906
+[2022-04-15 21:37:06] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:38:12] Loaded client id: 1537957800227170906
+[2022-04-15 21:38:12] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:39:06] Loaded client id: 1537957800227170906
+[2022-04-15 21:39:06] Listening for IPv4 broadcast on: 27036
+
+
+[2022-04-15 21:39:21] Loaded client id: 1537957800227170906
+[2022-04-15 21:39:21] Listening for IPv4 broadcast on: 27036

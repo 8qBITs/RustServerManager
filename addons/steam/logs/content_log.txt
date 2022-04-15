@@ -1,0 +1,651 @@
+
+
+[2022-04-13 15:06:51] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:12:49] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:12:51] AppID 258550 state changed : Update Required,
+[2022-04-13 15:12:51] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:12:51] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:12:51] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:12:51] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:12:51] AppID 258550 update changed : Running,
+[2022-04-13 15:12:51] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:12:51] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:12:51] Created download interface of type 'SteamCache' (7) to host cache2-vie1.steamcontent.com (cache2-vie1.steamcontent.com)
+[2022-04-13 15:12:51] Created download interface of type 'SteamCache' (7) to host cache4-fra1.steamcontent.com (cache4-fra1.steamcontent.com)
+[2022-04-13 15:12:51] Created download interface of type 'SteamCache' (7) to host cache4-vie1.steamcontent.com (cache4-vie1.steamcontent.com)
+[2022-04-13 15:12:52] Created ipv4-only http client
+[2022-04-13 15:12:53] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): cache2-vie1.steamcontent.com/depot/258551/manifest/8905251570360250265/5/1872221019943017750 - received 200 (OK) HTTP response
+[2022-04-13 15:12:53] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): cache2-vie1.steamcontent.com/depot/258554/manifest/6853233243572681914/5/810448741735522951 - received 200 (OK) HTTP response
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,
+[2022-04-13 15:12:53] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:12:53] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:12:53] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:12:53] Downloading 841 chunks from depot 258551
+[2022-04-13 15:12:58] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:13:04] Increasing target number of download connections to 4 (rate was 0.000, now 385.741)
+[2022-04-13 15:13:04] Created download interface of type 'SteamCache' (7) to host cache6-fra1.steamcontent.com (cache6-fra1.steamcontent.com)
+[2022-04-13 15:13:23] Increasing target number of download connections to 5 (rate was 385.741, now 518.086)
+[2022-04-13 15:13:23] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2022-04-13 15:13:26] AppID 258550 update changed : Running,
+[2022-04-13 15:13:26] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:13:40] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:13:40] AppID 258550 update changed : Running,
+[2022-04-13 15:13:40] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:13:40] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:13:42] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:13:42] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:13:42] AppID 258550 update changed : Running,
+[2022-04-13 15:13:42] AppID 258550 update changed : None
+[2022-04-13 15:13:42] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:13:42] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:13:42] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:13:42] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:13:42] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:13:42] HTTP (SteamCache,217) - cache4-vie1.steamcontent.com (146.66.155.19:80 / 146.66.155.19:80, host: cache4-vie1.steamcontent.com): Closing connection
+[2022-04-13 15:13:42] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:13:42] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Closing connection
+
+
+[2022-04-13 15:17:51] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:17:53] AppID 258550 state changed : Update Required,
+[2022-04-13 15:17:53] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:17:53] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:17:53] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:17:53] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,
+[2022-04-13 15:17:53] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:17:53] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:17:53] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:17:53] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:17:53] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-13 15:17:53] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2022-04-13 15:17:53] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2022-04-13 15:17:53] Downloading 841 chunks from depot 258551
+[2022-04-13 15:17:53] Created ipv4-only http client
+[2022-04-13 15:18:00] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:18:05] Increasing target number of download connections to 4 (rate was 0.000, now 313.244)
+[2022-04-13 15:18:05] Created download interface of type 'SteamCache' (7) to host cache6-fra1.steamcontent.com (cache6-fra1.steamcontent.com)
+[2022-04-13 15:18:17] Increasing target number of download connections to 5 (rate was 313.244, now 590.487)
+[2022-04-13 15:18:17] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-13 15:18:32] AppID 258550 update changed : Running,
+[2022-04-13 15:18:32] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:18:46] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:18:46] AppID 258550 update changed : Running,
+[2022-04-13 15:18:46] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:18:46] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:18:47] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:18:47] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:18:47] AppID 258550 update changed : Running,
+[2022-04-13 15:18:47] AppID 258550 update changed : None
+[2022-04-13 15:18:47] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:18:47] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:18:47] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:18:47] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+[2022-04-13 15:18:47] HTTP (SteamCache,246) - cache6-fra1.steamcontent.com (162.254.197.19:80 / 162.254.197.19:80, host: cache6-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:18:47] HTTP (SteamCache,250) - cache1-fra2.steamcontent.com (155.133.226.2:443 / 155.133.226.2:443, host: cache1-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:18:47] HTTP (SteamCache,83) - cache10-fra1.steamcontent.com (162.254.197.20:80 / 162.254.197.20:80, host: cache10-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:18:47] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+
+
+[2022-04-13 15:20:06] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:21:48] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:21:49] AppID 258550 state changed : Update Required,
+[2022-04-13 15:21:49] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:21:49] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:21:49] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:21:49] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,
+[2022-04-13 15:21:49] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:21:49] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:21:49] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:21:50] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:21:50] Created download interface of type 'SteamCache' (7) to host cache5-fra1.steamcontent.com (cache5-fra1.steamcontent.com)
+[2022-04-13 15:21:50] Created download interface of type 'SteamCache' (7) to host cache11-fra1.steamcontent.com (cache11-fra1.steamcontent.com)
+[2022-04-13 15:21:50] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
+[2022-04-13 15:21:50] Downloading 841 chunks from depot 258551
+[2022-04-13 15:21:50] Created ipv4-only http client
+[2022-04-13 15:21:59] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:22:02] Increasing target number of download connections to 4 (rate was 0.000, now 222.197)
+[2022-04-13 15:22:02] Created download interface of type 'SteamCache' (7) to host cache3-fra1.steamcontent.com (cache3-fra1.steamcontent.com)
+[2022-04-13 15:22:14] Increasing target number of download connections to 5 (rate was 222.197, now 433.650)
+[2022-04-13 15:22:14] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-13 15:22:33] AppID 258550 update changed : Running,
+[2022-04-13 15:22:33] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:22:46] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:22:46] AppID 258550 update changed : Running,
+[2022-04-13 15:22:46] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:22:46] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:22:48] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:22:48] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:22:48] AppID 258550 update changed : Running,
+[2022-04-13 15:22:48] AppID 258550 update changed : None
+[2022-04-13 15:22:48] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:22:48] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:22:48] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:22:48] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:22:48] HTTP (SteamCache,243) - cache3-fra1.steamcontent.com (162.254.197.7:80 / 162.254.197.7:80, host: cache3-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:22:48] HTTP (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:80 / 162.254.197.6:80, host: cache1-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:22:48] HTTP (SteamCache,84) - cache11-fra1.steamcontent.com (162.254.197.5:80 / 162.254.197.5:80, host: cache11-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:22:48] HTTP (SteamCache,245) - cache5-fra1.steamcontent.com (162.254.197.3:80 / 162.254.197.3:80, host: cache5-fra1.steamcontent.com): Closing connection
+
+
+[2022-04-13 15:23:40] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:26:09] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:35:49] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:36:05] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:36:06] AppID 258550 state changed : Update Required,
+[2022-04-13 15:36:06] AppID 258550 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2022-04-13 15:36:06] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:36:06] AppID 258550 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2022-04-13 15:36:06] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,
+[2022-04-13 15:36:06] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:36:07] AppID 258550 update changed : Running,
+[2022-04-13 15:36:07] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:36:07] AppID 258550 update verify : forcing auto update validation (random 1 out of 10 chance)
+[2022-04-13 15:36:07] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:36:07] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:36:07] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:36:07] Created download interface of type 'SteamCache' (7) to host cache4-fra1.steamcontent.com (cache4-fra1.steamcontent.com)
+[2022-04-13 15:36:07] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-13 15:36:07] Created download interface of type 'SteamCache' (7) to host cache8-fra1.steamcontent.com (cache8-fra1.steamcontent.com)
+[2022-04-13 15:36:07] Downloading 841 chunks from depot 258551
+[2022-04-13 15:36:07] Created ipv4-only http client
+[2022-04-13 15:36:16] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:36:19] Increasing target number of download connections to 4 (rate was 0.000, now 238.906)
+[2022-04-13 15:36:19] Created download interface of type 'SteamCache' (7) to host cache8-fra2.steamcontent.com (cache8-fra2.steamcontent.com)
+[2022-04-13 15:36:31] Increasing target number of download connections to 5 (rate was 238.906, now 409.986)
+[2022-04-13 15:36:31] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2022-04-13 15:36:51] AppID 258550 update changed : Running,
+[2022-04-13 15:36:51] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:37:05] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:37:05] AppID 258550 update changed : Running,
+[2022-04-13 15:37:05] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:37:05] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:37:06] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:37:06] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:37:06] AppID 258550 update changed : Running,
+[2022-04-13 15:37:06] AppID 258550 update changed : None
+[2022-04-13 15:37:06] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:37:06] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:37:06] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:37:06] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:37:06] HTTP (SteamCache,248) - cache8-fra2.steamcontent.com (155.133.226.51:443 / 155.133.226.51:443, host: cache8-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:37:06] HTTP (SteamCache,82) - cache8-fra1.steamcontent.com (162.254.197.22:80 / 162.254.197.22:80, host: cache8-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:37:06] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:37:06] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (162.254.197.21:80 / 162.254.197.21:80, host: cache4-fra1.steamcontent.com): Closing connection
+
+
+[2022-04-13 15:38:39] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:39:41] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:40:25] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:41:36] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:45:24] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:46:42] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 15:46:54] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:46:56] AppID 258550 state changed : Update Required,
+[2022-04-13 15:46:56] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:46:56] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:46:56] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:46:56] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,
+[2022-04-13 15:46:56] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:46:56] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:46:56] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:46:56] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:46:56] Created download interface of type 'SteamCache' (7) to host cache3-vie1.steamcontent.com (cache3-vie1.steamcontent.com)
+[2022-04-13 15:46:56] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2022-04-13 15:46:56] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2022-04-13 15:46:56] Downloading 841 chunks from depot 258551
+[2022-04-13 15:46:56] Created ipv4-only http client
+[2022-04-13 15:47:04] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:47:08] Increasing target number of download connections to 4 (rate was 0.000, now 295.039)
+[2022-04-13 15:47:08] Created download interface of type 'SteamCache' (7) to host cache3-fra2.steamcontent.com (cache3-fra2.steamcontent.com)
+[2022-04-13 15:47:21] Increasing target number of download connections to 5 (rate was 295.039, now 412.384)
+[2022-04-13 15:47:21] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-13 15:48:09] AppID 258550 update changed : Running,
+[2022-04-13 15:48:09] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:48:09] Current download rate: 18.539 Mbps
+[2022-04-13 15:48:23] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:48:23] AppID 258550 update changed : Running,
+[2022-04-13 15:48:23] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:48:23] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:48:24] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:48:24] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:48:24] AppID 258550 update changed : Running,
+[2022-04-13 15:48:24] AppID 258550 update changed : None
+[2022-04-13 15:48:24] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:48:24] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:48:24] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:48:24] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+[2022-04-13 15:48:24] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (155.133.226.34:443 / 155.133.226.34:443, host: cache3-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:48:24] HTTP (SteamCache,250) - cache1-fra2.steamcontent.com (155.133.226.2:443 / 155.133.226.2:443, host: cache1-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:48:24] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.3:443 / 155.133.226.3:443, host: cache5-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:48:24] HTTP (SteamCache,216) - cache3-vie1.steamcontent.com (146.66.155.4:80 / 146.66.155.4:80, host: cache3-vie1.steamcontent.com): Closing connection
+
+
+[2022-04-13 15:58:49] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 15:58:51] AppID 258550 state changed : Update Required,
+[2022-04-13 15:58:51] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:58:51] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 15:58:51] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 15:58:51] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,Validating,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,
+[2022-04-13 15:58:51] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 15:58:51] AppID 258550 update verify : forcing auto update validation (random 1 out of 10 chance)
+[2022-04-13 15:58:51] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 15:58:51] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 15:58:51] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 15:58:51] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2022-04-13 15:58:51] Created download interface of type 'SteamCache' (7) to host cache3-fra2.steamcontent.com (cache3-fra2.steamcontent.com)
+[2022-04-13 15:58:51] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2022-04-13 15:58:51] Downloading 841 chunks from depot 258551
+[2022-04-13 15:58:51] Created ipv4-only http client
+[2022-04-13 15:59:00] Downloading 6869 chunks from depot 258554
+[2022-04-13 15:59:04] Increasing target number of download connections to 4 (rate was 0.000, now 224.845)
+[2022-04-13 15:59:04] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2022-04-13 15:59:16] Increasing target number of download connections to 5 (rate was 224.845, now 427.721)
+[2022-04-13 15:59:16] Created download interface of type 'SteamCache' (7) to host cache4-vie1.steamcontent.com (cache4-vie1.steamcontent.com)
+[2022-04-13 15:59:35] AppID 258550 update changed : Running,
+[2022-04-13 15:59:35] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 15:59:48] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 15:59:48] AppID 258550 update changed : Running,
+[2022-04-13 15:59:48] AppID 258550 update changed : Running,Committing,
+[2022-04-13 15:59:48] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 15:59:50] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 15:59:50] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 15:59:50] AppID 258550 update changed : Running,
+[2022-04-13 15:59:50] AppID 258550 update changed : None
+[2022-04-13 15:59:50] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 15:59:50] AppID 258550 state changed : Fully Installed,
+[2022-04-13 15:59:50] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 15:59:50] HTTP (SteamCache,217) - cache4-vie1.steamcontent.com (146.66.155.19:80 / 146.66.155.19:80, host: cache4-vie1.steamcontent.com): Closing connection
+[2022-04-13 15:59:50] HTTP (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.35:443 / 155.133.226.35:443, host: cache7-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:59:50] HTTP (SteamCache,250) - cache1-fra2.steamcontent.com (155.133.226.2:443 / 155.133.226.2:443, host: cache1-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:59:50] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (155.133.226.34:443 / 155.133.226.34:443, host: cache3-fra2.steamcontent.com): Closing connection
+[2022-04-13 15:59:50] HTTP (SteamCache,83) - cache10-fra1.steamcontent.com (162.254.197.20:80 / 162.254.197.20:80, host: cache10-fra1.steamcontent.com): Closing connection
+
+
+[2022-04-13 16:13:40] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 16:14:35] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:34:45] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:36:48] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:37:46] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-13 17:37:48] AppID 258550 state changed : Update Required,
+[2022-04-13 17:37:48] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 17:37:48] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-13 17:37:48] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-13 17:37:48] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,Validating,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,Preallocating,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,
+[2022-04-13 17:37:48] AppID 258550 update started : download 0/2104191632, store 0/0, reuse 0/0, delta 0/0, stage 0/6489364573 
+[2022-04-13 17:37:48] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-13 17:37:48] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-13 17:37:48] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-13 17:37:48] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2022-04-13 17:37:48] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-13 17:37:48] Created download interface of type 'SteamCache' (7) to host cache2-vie1.steamcontent.com (cache2-vie1.steamcontent.com)
+[2022-04-13 17:37:48] Downloading 841 chunks from depot 258551
+[2022-04-13 17:37:48] Created ipv4-only http client
+[2022-04-13 17:37:53] Downloading 6869 chunks from depot 258554
+[2022-04-13 17:38:00] Increasing target number of download connections to 4 (rate was 0.000, now 448.894)
+[2022-04-13 17:38:00] Created download interface of type 'SteamCache' (7) to host cache3-fra1.steamcontent.com (cache3-fra1.steamcontent.com)
+[2022-04-13 17:38:23] AppID 258550 update changed : Running,
+[2022-04-13 17:38:23] AppID 258550 update changed : Running,Verifying,
+[2022-04-13 17:38:37] Verified 6188 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6188 MB
+[2022-04-13 17:38:37] AppID 258550 update changed : Running,
+[2022-04-13 17:38:37] AppID 258550 update changed : Running,Committing,
+[2022-04-13 17:38:37] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-13 17:38:38] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-13 17:38:38] AppID 258550 finished update, 2 mounted depots (BuildID 8534566) : 258551 (8905251570360250265),258554 (6853233243572681914),
+[2022-04-13 17:38:38] AppID 258550 update changed : Running,
+[2022-04-13 17:38:38] AppID 258550 update changed : None
+[2022-04-13 17:38:38] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-13 17:38:38] AppID 258550 state changed : Fully Installed,
+[2022-04-13 17:38:38] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-13 17:38:38] HTTP (SteamCache,243) - cache3-fra1.steamcontent.com (162.254.197.7:80 / 162.254.197.7:80, host: cache3-fra1.steamcontent.com): Closing connection
+[2022-04-13 17:38:38] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Closing connection
+[2022-04-13 17:38:38] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+[2022-04-13 17:38:38] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+
+
+[2022-04-13 17:45:58] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:46:32] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:48:52] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:52:00] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:52:29] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:53:01] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:58:01] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 17:58:30] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-13 18:20:25] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-14 18:42:47] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-14 18:42:50] AppID 258550 state changed : Update Required,
+[2022-04-14 18:42:50] AppID 258550 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2022-04-14 18:42:50] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-14 18:42:50] AppID 258550 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2022-04-14 18:42:50] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-14 18:42:50] AppID 258550 update changed : Running,
+[2022-04-14 18:42:50] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-14 18:42:51] Got 18 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-14 18:42:51] Created download interface of type 'SteamCache' (7) to host cache3-fra2.steamcontent.com (cache3-fra2.steamcontent.com)
+[2022-04-14 18:42:51] Created download interface of type 'SteamCache' (7) to host cache11-fra1.steamcontent.com (cache11-fra1.steamcontent.com)
+[2022-04-14 18:42:51] Created download interface of type 'SteamCache' (7) to host cache3-fra1.steamcontent.com (cache3-fra1.steamcontent.com)
+[2022-04-14 18:42:51] Created ipv4-only http client
+[2022-04-14 18:42:51] HTTP (SteamCache,84) - cache11-fra1.steamcontent.com (162.254.197.5:80 / 162.254.197.5:80, host: cache11-fra1.steamcontent.com): cache11-fra1.steamcontent.com/depot/258554/manifest/1442855323844572517/5/8279799148142916536 - received 200 (OK) HTTP response
+[2022-04-14 18:42:52] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (155.133.226.34:443 / 155.133.226.34:443, host: cache3-fra2.steamcontent.com): cache3-fra2.steamcontent.com/depot/258551/manifest/638701802374650928/5/16639116701923044922 - received 200 (OK) HTTP response
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,Validating,
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,Preallocating,
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,
+[2022-04-14 18:42:52] AppID 258550 update started : download 0/2104571504, store 0/0, reuse 0/0, delta 0/0, stage 0/6490400045 
+[2022-04-14 18:42:52] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-14 18:42:52] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-14 18:42:52] Downloading 841 chunks from depot 258551
+[2022-04-14 18:43:03] Downloading 6888 chunks from depot 258554
+[2022-04-14 18:43:03] Increasing target number of download connections to 4 (rate was 0.000, now 182.756)
+[2022-04-14 18:43:03] Created download interface of type 'SteamCache' (7) to host cache3-vie1.steamcontent.com (cache3-vie1.steamcontent.com)
+[2022-04-14 18:43:15] Increasing target number of download connections to 5 (rate was 182.756, now 355.848)
+[2022-04-14 18:43:15] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-14 18:43:30] Increasing target number of download connections to 6 (rate was 355.848, now 437.925)
+[2022-04-14 18:43:30] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2022-04-14 18:43:36] AppID 258550 update changed : Running,
+[2022-04-14 18:43:36] AppID 258550 update changed : Running,Verifying,
+[2022-04-14 18:43:50] Verified 6189 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6189 MB
+[2022-04-14 18:43:50] AppID 258550 update changed : Running,
+[2022-04-14 18:43:50] AppID 258550 update changed : Running,Committing,
+[2022-04-14 18:43:50] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-14 18:43:51] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-14 18:43:51] AppID 258550 finished update, 2 mounted depots (BuildID 8554350) : 258551 (638701802374650928),258554 (1442855323844572517),
+[2022-04-14 18:43:51] AppID 258550 update changed : Running,
+[2022-04-14 18:43:51] AppID 258550 update changed : None
+[2022-04-14 18:43:51] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-14 18:43:51] AppID 258550 state changed : Fully Installed,
+[2022-04-14 18:43:51] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-14 18:43:51] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): Closing connection
+[2022-04-14 18:43:51] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+[2022-04-14 18:43:51] HTTP (SteamCache,216) - cache3-vie1.steamcontent.com (146.66.155.4:80 / 146.66.155.4:80, host: cache3-vie1.steamcontent.com): Closing connection
+[2022-04-14 18:43:51] HTTP (SteamCache,243) - cache3-fra1.steamcontent.com (162.254.197.7:80 / 162.254.197.7:80, host: cache3-fra1.steamcontent.com): Closing connection
+[2022-04-14 18:43:51] HTTP (SteamCache,84) - cache11-fra1.steamcontent.com (162.254.197.5:80 / 162.254.197.5:80, host: cache11-fra1.steamcontent.com): Closing connection
+[2022-04-14 18:43:51] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (155.133.226.34:443 / 155.133.226.34:443, host: cache3-fra2.steamcontent.com): Closing connection
+
+
+[2022-04-14 18:45:23] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-14 18:51:33] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 20:47:33] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-15 20:47:36] AppID 258550 state changed : Update Required,
+[2022-04-15 20:47:36] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-15 20:47:36] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-15 20:47:36] AppID 258550 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-04-15 20:47:36] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,Validating,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,Preallocating,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,
+[2022-04-15 20:47:36] AppID 258550 update started : download 0/2104571504, store 0/0, reuse 0/0, delta 0/0, stage 0/6490400045 
+[2022-04-15 20:47:36] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-15 20:47:36] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-15 20:47:37] Got 22 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-15 20:47:37] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-15 20:47:37] Created download interface of type 'SteamCache' (7) to host cache2-vie1.steamcontent.com (cache2-vie1.steamcontent.com)
+[2022-04-15 20:47:37] Created download interface of type 'SteamCache' (7) to host cache11-fra1.steamcontent.com (cache11-fra1.steamcontent.com)
+[2022-04-15 20:47:37] Downloading 841 chunks from depot 258551
+[2022-04-15 20:47:37] Created ipv4-only http client
+[2022-04-15 20:47:49] Downloading 6888 chunks from depot 258554
+[2022-04-15 20:47:53] Increasing target number of download connections to 4 (rate was 0.000, now 295.698)
+[2022-04-15 20:47:53] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2022-04-15 20:48:05] Increasing target number of download connections to 5 (rate was 295.698, now 408.466)
+[2022-04-15 20:48:05] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2022-04-15 20:48:24] AppID 258550 update changed : Running,
+[2022-04-15 20:48:24] AppID 258550 update changed : Running,Verifying,
+[2022-04-15 20:48:37] Verified 6189 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6189 MB
+[2022-04-15 20:48:37] AppID 258550 update changed : Running,
+[2022-04-15 20:48:37] AppID 258550 update changed : Running,Committing,
+[2022-04-15 20:48:37] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-15 20:48:38] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-15 20:48:38] AppID 258550 finished update, 2 mounted depots (BuildID 8554350) : 258551 (638701802374650928),258554 (1442855323844572517),
+[2022-04-15 20:48:38] AppID 258550 update changed : Running,
+[2022-04-15 20:48:38] AppID 258550 update changed : None
+[2022-04-15 20:48:38] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-15 20:48:38] AppID 258550 state changed : Fully Installed,
+[2022-04-15 20:48:38] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-15 20:48:38] HTTP (SteamCache,83) - cache10-fra1.steamcontent.com (162.254.197.20:80 / 162.254.197.20:80, host: cache10-fra1.steamcontent.com): Closing connection
+[2022-04-15 20:48:38] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.3:443 / 155.133.226.3:443, host: cache5-fra2.steamcontent.com): Closing connection
+[2022-04-15 20:48:38] HTTP (SteamCache,84) - cache11-fra1.steamcontent.com (162.254.197.5:80 / 162.254.197.5:80, host: cache11-fra1.steamcontent.com): Closing connection
+[2022-04-15 20:48:38] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Closing connection
+[2022-04-15 20:48:38] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+
+
+[2022-04-15 20:52:25] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-15 20:52:27] AppID 258550 state changed : Update Required,
+[2022-04-15 20:52:27] AppID 258550 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2022-04-15 20:52:27] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-15 20:52:27] AppID 258550 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2022-04-15 20:52:27] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,Validating,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,Preallocating,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,
+[2022-04-15 20:52:27] AppID 258550 update started : download 0/2104571504, store 0/0, reuse 0/0, delta 0/0, stage 0/6490400045 
+[2022-04-15 20:52:27] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-15 20:52:27] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-15 20:52:30] Got 18 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-15 20:52:30] Created download interface of type 'SteamCache' (7) to host cache4-vie1.steamcontent.com (cache4-vie1.steamcontent.com)
+[2022-04-15 20:52:30] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2022-04-15 20:52:30] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2022-04-15 20:52:30] Downloading 841 chunks from depot 258551
+[2022-04-15 20:52:30] Created ipv4-only http client
+[2022-04-15 20:52:39] Downloading 6888 chunks from depot 258554
+[2022-04-15 20:52:42] Increasing target number of download connections to 4 (rate was 0.000, now 264.929)
+[2022-04-15 20:52:42] Created download interface of type 'SteamCache' (7) to host cache1-vie1.steamcontent.com (cache1-vie1.steamcontent.com)
+[2022-04-15 20:52:57] Increasing target number of download connections to 5 (rate was 264.929, now 342.098)
+[2022-04-15 20:52:57] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2022-04-15 20:53:25] AppID 258550 update changed : Running,
+[2022-04-15 20:53:25] AppID 258550 update changed : Running,Verifying,
+[2022-04-15 20:53:38] Verified 6189 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6189 MB
+[2022-04-15 20:53:38] AppID 258550 update changed : Running,
+[2022-04-15 20:53:38] AppID 258550 update changed : Running,Committing,
+[2022-04-15 20:53:38] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-15 20:53:39] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-15 20:53:39] AppID 258550 finished update, 2 mounted depots (BuildID 8554350) : 258551 (638701802374650928),258554 (1442855323844572517),
+[2022-04-15 20:53:39] AppID 258550 update changed : Running,
+[2022-04-15 20:53:39] AppID 258550 update changed : None
+[2022-04-15 20:53:39] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-15 20:53:39] AppID 258550 state changed : Fully Installed,
+[2022-04-15 20:53:39] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-15 20:53:39] HTTP (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.18:80 / 162.254.197.18:80, host: cache2-fra1.steamcontent.com): Closing connection
+[2022-04-15 20:53:39] HTTP (SteamCache,30) - cache1-vie1.steamcontent.com (146.66.155.10:80 / 146.66.155.10:80, host: cache1-vie1.steamcontent.com): Closing connection
+[2022-04-15 20:53:39] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.2:80 / 162.254.197.2:80, host: cache9-fra1.steamcontent.com): Closing connection
+[2022-04-15 20:53:39] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2022-04-15 20:53:39] HTTP (SteamCache,217) - cache4-vie1.steamcontent.com (146.66.155.19:80 / 146.66.155.19:80, host: cache4-vie1.steamcontent.com): Closing connection
+
+
+[2022-04-15 20:55:23] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 20:58:03] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:06:01] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:08:38] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:10:35] Loaded 0 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+[2022-04-15 21:10:37] AppID 258550 state changed : Update Required,
+[2022-04-15 21:10:37] AppID 258550 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2022-04-15 21:10:37] AppID 258550 state changed : Update Required,Update Queued,
+[2022-04-15 21:10:37] AppID 258550 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2022-04-15 21:10:37] AppID 258550 state changed : Update Required,Update Queued,Update Running,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,Reconfiguring,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,Validating,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,Preallocating,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,
+[2022-04-15 21:10:37] AppID 258550 update started : download 0/2104571504, store 0/0, reuse 0/0, delta 0/0, stage 0/6490400045 
+[2022-04-15 21:10:37] AppID 258550 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-04-15 21:10:37] AppID 258550 update changed : Running,Downloading,Staging,
+[2022-04-15 21:10:40] Got 12 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 195 / Launcher 3)
+[2022-04-15 21:10:40] Created download interface of type 'SteamCache' (7) to host cache8-fra2.steamcontent.com (cache8-fra2.steamcontent.com)
+[2022-04-15 21:10:40] Created download interface of type 'SteamCache' (7) to host cache2-vie1.steamcontent.com (cache2-vie1.steamcontent.com)
+[2022-04-15 21:10:40] Downloading 841 chunks from depot 258551
+[2022-04-15 21:10:40] Created ipv4-only http client
+[2022-04-15 21:10:51] Downloading 6888 chunks from depot 258554
+[2022-04-15 21:10:52] Increasing target number of download connections to 4 (rate was 0.000, now 204.221)
+[2022-04-15 21:11:05] Increasing target number of download connections to 5 (rate was 204.221, now 286.586)
+[2022-04-15 21:11:25] Increasing target number of download connections to 6 (rate was 286.586, now 343.957)
+[2022-04-15 21:11:52] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 258554
+[2022-04-15 21:11:52] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Disabling dual-stack for this connection
+[2022-04-15 21:11:52] AppID 258550 update changed : Running,
+[2022-04-15 21:11:52] AppID 258550 update changed : Running,Verifying,
+[2022-04-15 21:11:53] Current download rate: 58.478 Mbps
+[2022-04-15 21:12:05] Verified 6189 MB in 'C:\Users\8qBIT\Desktop\server python\addons\steam', clean bytes tally is now 6189 MB
+[2022-04-15 21:12:05] AppID 258550 update changed : Running,
+[2022-04-15 21:12:05] AppID 258550 update changed : Running,Committing,
+[2022-04-15 21:12:05] AppID 258550 starting commit from "c:\users\8qbit\desktop\server python\rust_data\steamapps\downloading\258550" to "c:\users\8qbit\desktop\server python\rust_data" : 1344 updated, 0 moved, 0 deleted files
+[2022-04-15 21:12:06] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2022-04-15 21:12:06] AppID 258550 finished update, 2 mounted depots (BuildID 8554350) : 258551 (638701802374650928),258554 (1442855323844572517),
+[2022-04-15 21:12:06] AppID 258550 update changed : Running,
+[2022-04-15 21:12:06] AppID 258550 update changed : None
+[2022-04-15 21:12:06] AppID 258550 state changed : Fully Installed,Update Queued,
+[2022-04-15 21:12:06] AppID 258550 state changed : Fully Installed,
+[2022-04-15 21:12:06] AppID 258550 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-04-15 21:12:06] HTTP (SteamCache,215) - cache2-vie1.steamcontent.com (146.66.155.21:80 / 146.66.155.21:80, host: cache2-vie1.steamcontent.com): Closing connection
+[2022-04-15 21:12:06] HTTP (SteamCache,248) - cache8-fra2.steamcontent.com (155.133.226.51:443 / 155.133.226.51:443, host: cache8-fra2.steamcontent.com): Closing connection
+
+
+[2022-04-15 21:13:04] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:13:52] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:16:01] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:19:34] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:22:54] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:24:05] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:33:34] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:34:41] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:35:39] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:37:06] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:38:12] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:39:06] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".
+
+
+[2022-04-15 21:39:21] Loaded 1 apps from install folder "c:\users\8qbit\desktop\server python\rust_data\steamapps\appmanifest_*.acf".

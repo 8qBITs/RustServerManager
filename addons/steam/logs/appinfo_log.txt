@@ -1,0 +1,694 @@
+
+
+[2022-04-13 15:06:51] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:06:51] Change number 0->14506273, apps: 0/0, packages: 0/0
+[2022-04-13 15:06:51] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:06:52] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2022-04-13 15:06:52] Requesting 0 apps, 1 packages (full data, 1024 prev attempts)
+[2022-04-13 15:06:52] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 1 (24 KB)
+[2022-04-13 15:06:52] Requesting 881 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:06:53] Requested 96 app access tokens, 47 received, 49 denied
+[2022-04-13 15:06:53] Updated SHAs with 47 new access tokens
+[2022-04-13 15:06:53] Downloaded 108 apps via HTTP, 2584 KB (648 KB compressed)
+[2022-04-13 15:06:53] Requesting 773 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 15:06:56] UpdatesJob: finished OK, apps updated 881 (4946 KB), packages updated 0 (0 KB)
+[2022-04-13 15:06:56] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:06:56] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:06:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:06:56] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672271 bytes)
+
+
+[2022-04-13 15:12:49] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:12:49] Packages changed: 
+[2022-04-13 15:12:49] Apps changed: 311260=14506324,
+[2022-04-13 15:12:49] Change number 14506273->14506330, apps: 1/42, packages: 0/1
+[2022-04-13 15:12:49] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:12:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:12:50] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-04-13 15:12:50] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-04-13 15:12:50] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:12:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:12:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:13:05] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:17:51] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:17:51] Packages changed: force all
+[2022-04-13 15:17:51] Apps changed: 1098260=14506361,280790=14506359,
+[2022-04-13 15:17:51] Change number 14506330->14506371, apps: 2/32, packages: 0/0
+[2022-04-13 15:17:51] Requesting 51 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:17:52] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:17:52] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2022-04-13 15:17:52] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2022-04-13 15:17:52] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:17:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:17:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:18:07] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:20:06] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:20:06] Apps changed: 
+[2022-04-13 15:20:06] Change number 14506371->14506380, apps: 0/9, packages: 0/0
+
+
+[2022-04-13 15:21:48] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:21:48] Packages changed: 
+[2022-04-13 15:21:48] Apps changed: 
+[2022-04-13 15:21:48] Change number 14506371->14506393, apps: 0/20, packages: 0/1
+[2022-04-13 15:21:48] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:21:49] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:21:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:21:49] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:21:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:21:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 15:23:40] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:23:40] Packages changed: 
+[2022-04-13 15:23:40] Apps changed: 1066780=14506399,
+[2022-04-13 15:23:40] Change number 14506393->14506409, apps: 1/15, packages: 0/2
+[2022-04-13 15:23:40] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:23:41] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:23:41] Downloaded 1 apps via HTTP, 20 KB (6 KB compressed)
+[2022-04-13 15:23:41] UpdatesJob: finished OK, apps updated 1 (20 KB), packages updated 0 (0 KB)
+[2022-04-13 15:23:41] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:23:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:23:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:23:41] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:26:09] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:26:09] Packages changed: 
+[2022-04-13 15:26:09] Apps changed: 
+[2022-04-13 15:26:09] Change number 14506409->14506434, apps: 0/24, packages: 0/3
+[2022-04-13 15:26:09] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:26:10] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:26:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:26:10] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:26:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:26:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 15:35:49] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:35:50] Packages changed: 
+[2022-04-13 15:35:50] Apps changed: 1011850=14506502,739590=14506475,996560=14506448,
+[2022-04-13 15:35:50] Change number 14506434->14506523, apps: 3/78, packages: 0/3
+[2022-04-13 15:35:50] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:35:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:35:51] Downloaded 2 apps via HTTP, 21 KB (6 KB compressed)
+[2022-04-13 15:35:51] UpdatesJob: finished OK, apps updated 2 (21 KB), packages updated 0 (0 KB)
+[2022-04-13 15:35:51] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:35:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+
+
+[2022-04-13 15:36:05] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:36:05] Packages changed: 
+[2022-04-13 15:36:05] Apps changed: 1011850=14506502,739590=14506475,996560=14506448,
+[2022-04-13 15:36:05] Change number 14506434->14506525, apps: 3/80, packages: 0/3
+[2022-04-13 15:36:05] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:36:06] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:36:06] Downloaded 2 apps via HTTP, 21 KB (6 KB compressed)
+[2022-04-13 15:36:06] UpdatesJob: finished OK, apps updated 2 (21 KB), packages updated 0 (0 KB)
+[2022-04-13 15:36:06] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:36:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:36:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:36:21] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:38:39] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:38:39] Packages changed: 
+[2022-04-13 15:38:39] Apps changed: 
+[2022-04-13 15:38:39] Change number 14506525->14506545, apps: 0/17, packages: 0/2
+[2022-04-13 15:38:39] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:38:40] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:38:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:38:40] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:38:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:38:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 15:39:41] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:39:42] Packages changed: 
+[2022-04-13 15:39:42] Apps changed: 
+[2022-04-13 15:39:42] Change number 14506545->14506555, apps: 0/9, packages: 0/1
+[2022-04-13 15:39:42] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:39:42] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:39:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:39:42] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:39:42] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:39:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 15:40:25] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:40:25] Apps changed: 1424230=14506560,
+[2022-04-13 15:40:25] Change number 14506555->14506560, apps: 1/5, packages: 0/0
+[2022-04-13 15:40:25] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:40:26] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:40:26] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 15:40:26] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2022-04-13 15:40:26] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:40:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:40:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:40:27] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:41:36] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:41:36] Apps changed: 1424230=14506562,
+[2022-04-13 15:41:36] Change number 14506560->14506569, apps: 1/9, packages: 0/0
+[2022-04-13 15:41:36] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:41:37] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:41:37] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 15:41:37] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2022-04-13 15:41:37] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:41:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:41:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:41:37] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672160 bytes)
+
+
+[2022-04-13 15:45:24] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:45:24] Packages changed: force all
+[2022-04-13 15:45:24] Apps changed: 1227690=14506590,589290=14506572,
+[2022-04-13 15:45:24] Change number 14506569->14506624, apps: 2/42, packages: 0/0
+[2022-04-13 15:45:24] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:45:25] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:45:25] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2022-04-13 15:45:25] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 15:45:25] UpdatesJob: finished OK, apps updated 2 (13 KB), packages updated 0 (0 KB)
+[2022-04-13 15:45:25] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:45:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:45:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:45:26] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672277 bytes)
+
+
+[2022-04-13 15:46:42] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:46:43] Packages changed: 
+[2022-04-13 15:46:43] Apps changed: 539470=14506630,
+[2022-04-13 15:46:43] Change number 14506624->14506642, apps: 1/15, packages: 0/4
+[2022-04-13 15:46:43] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:46:43] Requested 49 app access tokens, 0 received, 49 denied
+
+
+[2022-04-13 15:46:54] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:46:54] Packages changed: 
+[2022-04-13 15:46:54] Apps changed: 539470=14506630,
+[2022-04-13 15:46:54] Change number 14506624->14506642, apps: 1/15, packages: 0/4
+[2022-04-13 15:46:55] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:46:55] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:46:55] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2022-04-13 15:46:55] UpdatesJob: finished OK, apps updated 1 (8 KB), packages updated 0 (0 KB)
+[2022-04-13 15:46:55] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:46:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:46:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:47:10] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672277 bytes)
+
+
+[2022-04-13 15:58:49] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 15:58:50] Packages changed: force all
+[2022-04-13 15:58:50] Apps changed: 539470=14506729,1066780=14506727,
+[2022-04-13 15:58:50] Change number 14506642->14506790, apps: 2/96, packages: 0/0
+[2022-04-13 15:58:50] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:58:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 15:58:50] Downloaded 2 apps via HTTP, 29 KB (9 KB compressed)
+[2022-04-13 15:58:50] UpdatesJob: finished OK, apps updated 2 (29 KB), packages updated 0 (0 KB)
+[2022-04-13 15:58:50] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 15:58:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 15:58:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 15:59:05] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672278 bytes)
+
+
+[2022-04-13 16:13:40] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 16:13:40] Packages changed: force all
+[2022-04-13 16:13:40] Apps changed: 960750=14507049,1003980=14507020,1892930=14507011,322330=14506923,301650=14506922,774961=14506814,
+[2022-04-13 16:13:40] Change number 14506790->14507064, apps: 6/228, packages: 0/0
+[2022-04-13 16:13:41] Requesting 55 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 16:13:41] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 16:13:41] Downloaded 2 apps via HTTP, 31 KB (9 KB compressed)
+[2022-04-13 16:13:41] Requesting 3 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 16:13:42] UpdatesJob: finished OK, apps updated 5 (41 KB), packages updated 0 (0 KB)
+[2022-04-13 16:13:42] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 16:13:42] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 16:13:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 16:13:42] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672278 bytes)
+
+
+[2022-04-13 16:14:35] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 16:14:35] Apps changed: 
+[2022-04-13 16:14:35] Change number 14507064->14507075, apps: 0/9, packages: 0/0
+[2022-04-13 16:14:35] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 16:14:35] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 16:14:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 16:14:36] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 16:14:36] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 16:14:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 17:34:45] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:34:45] Packages changed: force all
+[2022-04-13 17:34:45] Apps changed: 1011850=14507804,555160=14507800,844650=14507797,252490=14507755,539470=14507754,746200=14507634,635260=14507571,736220=14507569,621060=14507498,1324780=14507482,258550=14507342,1066780=14507248,1519140=14507171,960750=14507153,1138100=14507139,
+[2022-04-13 17:34:45] Change number 14507075->14507807, apps: 17/494, packages: 0/0
+[2022-04-13 17:34:45] Requesting 65 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:34:46] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:34:46] Downloaded 6 apps via HTTP, 78 KB (24 KB compressed)
+[2022-04-13 17:34:46] Requesting 8 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:34:46] UpdatesJob: finished OK, apps updated 14 (118 KB), packages updated 0 (0 KB)
+[2022-04-13 17:34:46] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:34:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:34:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:34:47] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672277 bytes)
+
+
+[2022-04-13 17:36:48] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:36:48] Apps changed: 252490=14507813,
+[2022-04-13 17:36:48] Change number 14507807->14507823, apps: 1/16, packages: 0/0
+[2022-04-13 17:36:48] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:36:48] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:36:49] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-04-13 17:36:49] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-04-13 17:36:49] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:36:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:36:49] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:36:49] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671826 bytes)
+
+
+[2022-04-13 17:37:46] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:37:46] Apps changed: 
+[2022-04-13 17:37:46] Change number 14507823->14507835, apps: 0/12, packages: 0/0
+[2022-04-13 17:37:46] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:37:47] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:37:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:37:47] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:37:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:37:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 17:45:58] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:45:58] Packages changed: force all
+[2022-04-13 17:45:58] Apps changed: 714010=14507889,1892930=14507847,1042420=14507839,
+[2022-04-13 17:45:58] Change number 14507835->14507901, apps: 3/51, packages: 0/0
+[2022-04-13 17:45:58] Requesting 53 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:45:59] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:45:59] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2022-04-13 17:45:59] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:45:59] UpdatesJob: finished OK, apps updated 3 (20 KB), packages updated 0 (0 KB)
+[2022-04-13 17:45:59] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:45:59] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:46:00] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:46:00] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671826 bytes)
+
+
+[2022-04-13 17:46:32] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:46:32] Apps changed: 
+[2022-04-13 17:46:32] Change number 14507901->14507908, apps: 0/5, packages: 0/0
+[2022-04-13 17:46:33] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:46:33] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:46:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:46:33] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:46:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:46:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 17:48:52] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:48:53] Packages changed: 
+[2022-04-13 17:48:53] Apps changed: 
+[2022-04-13 17:48:53] Change number 14507908->14507916, apps: 0/5, packages: 0/3
+[2022-04-13 17:48:53] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:48:53] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:48:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:48:53] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:48:53] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:48:54] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-13 17:52:00] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:52:00] Apps changed: 1815810=14507928,
+[2022-04-13 17:52:00] Change number 14507916->14507938, apps: 1/18, packages: 0/0
+[2022-04-13 17:52:00] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:52:00] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:52:00] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:52:01] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2022-04-13 17:52:01] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:52:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:52:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:52:01] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671801 bytes)
+
+
+[2022-04-13 17:52:29] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:52:30] Apps changed: 1138100=14507939,
+[2022-04-13 17:52:30] Change number 14507938->14507947, apps: 1/8, packages: 0/0
+[2022-04-13 17:52:30] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:52:30] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:52:30] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:52:30] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2022-04-13 17:52:30] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:52:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:52:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:52:31] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671801 bytes)
+
+
+[2022-04-13 17:53:01] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:53:02] Packages changed: 
+[2022-04-13 17:53:02] Apps changed: 365960=14507955,
+[2022-04-13 17:53:02] Change number 14507947->14507959, apps: 1/11, packages: 0/3
+[2022-04-13 17:53:02] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:53:02] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:53:02] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-04-13 17:53:02] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-04-13 17:53:02] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:53:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:53:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:53:03] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671801 bytes)
+
+
+[2022-04-13 17:58:01] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:58:01] Packages changed: force all
+[2022-04-13 17:58:01] Apps changed: 238430=14507979,400300=14507962,
+[2022-04-13 17:58:01] Change number 14507959->14508018, apps: 2/36, packages: 0/0
+[2022-04-13 17:58:01] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:58:02] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:58:02] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2022-04-13 17:58:02] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:58:02] UpdatesJob: finished OK, apps updated 2 (16 KB), packages updated 0 (0 KB)
+[2022-04-13 17:58:02] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:58:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:58:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:58:03] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671801 bytes)
+
+
+[2022-04-13 17:58:30] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 17:58:31] Packages changed: 
+[2022-04-13 17:58:31] Apps changed: 1736750=14508020,
+[2022-04-13 17:58:31] Change number 14508018->14508028, apps: 1/7, packages: 0/2
+[2022-04-13 17:58:31] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:58:31] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 17:58:31] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 17:58:32] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-04-13 17:58:32] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 17:58:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 17:58:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 17:58:32] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3671801 bytes)
+
+
+[2022-04-13 18:20:25] RequestAppInfoUpdate: AppIDs 7
+[2022-04-13 18:20:25] Packages changed: force all
+[2022-04-13 18:20:25] Apps changed: 238430=14508264,555160=14508255,1815810=14508161,1281150=14508112,294420=14508060,
+[2022-04-13 18:20:25] Change number 14508028->14508272, apps: 5/188, packages: 0/0
+[2022-04-13 18:20:25] Requesting 55 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-13 18:20:26] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-13 18:20:26] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2022-04-13 18:20:26] Requesting 4 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-13 18:20:26] UpdatesJob: finished OK, apps updated 5 (27 KB), packages updated 0 (0 KB)
+[2022-04-13 18:20:26] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-13 18:20:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-13 18:20:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-13 18:20:27] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3672196 bytes)
+
+
+[2022-04-14 18:42:47] RequestAppInfoUpdate: AppIDs 7
+[2022-04-14 18:42:48] Packages changed: force all
+[2022-04-14 18:42:48] Apps changed: force all
+[2022-04-14 18:42:48] Change number 14508272->14519932, apps: 0/0, packages: 0/0
+[2022-04-14 18:42:48] Requesting 882 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:42:48] Requested 96 app access tokens, 47 received, 49 denied
+[2022-04-14 18:42:49] Updated SHAs with 47 new access tokens
+[2022-04-14 18:42:49] Downloaded 42 apps via HTTP, 710 KB (202 KB compressed)
+[2022-04-14 18:42:49] Requesting 60 apps, 1 packages (full data, 1024 prev attempts)
+[2022-04-14 18:42:49] UpdatesJob: finished OK, apps updated 102 (952 KB), packages updated 1 (24 KB)
+[2022-04-14 18:42:49] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-14 18:42:50] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:42:50] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-14 18:42:50] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-14 18:42:50] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2022-04-14 18:43:05] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3673447 bytes)
+
+
+[2022-04-14 18:45:23] RequestAppInfoUpdate: AppIDs 7
+[2022-04-14 18:45:24] Apps changed: 
+[2022-04-14 18:45:24] Change number 14519932->14519942, apps: 0/10, packages: 0/0
+[2022-04-14 18:45:24] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:45:24] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-14 18:45:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-14 18:45:24] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-14 18:45:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:45:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-14 18:51:33] RequestAppInfoUpdate: AppIDs 7
+[2022-04-14 18:51:33] Packages changed: 
+[2022-04-14 18:51:33] Apps changed: 
+[2022-04-14 18:51:33] Change number 14519942->14519970, apps: 0/24, packages: 0/2
+[2022-04-14 18:51:33] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:51:34] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-14 18:51:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-14 18:51:34] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-14 18:51:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-14 18:51:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 20:47:33] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 20:47:34] Packages changed: force all
+[2022-04-15 20:47:34] Apps changed: force all
+[2022-04-15 20:47:34] Change number 14519970->14530692, apps: 0/0, packages: 0/0
+[2022-04-15 20:47:34] Requesting 883 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:47:34] Requested 96 app access tokens, 47 received, 49 denied
+[2022-04-15 20:47:35] Updated SHAs with 47 new access tokens
+[2022-04-15 20:47:35] Downloaded 36 apps via HTTP, 675 KB (192 KB compressed)
+[2022-04-15 20:47:35] Requesting 58 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 20:47:35] UpdatesJob: finished OK, apps updated 94 (905 KB), packages updated 0 (0 KB)
+[2022-04-15 20:47:35] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 20:47:36] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:47:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 20:47:50] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 20:52:25] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 20:52:25] Apps changed: 1483870=14530720,555160=14530697,
+[2022-04-15 20:52:25] Change number 14530692->14530720, apps: 2/23, packages: 0/0
+[2022-04-15 20:52:25] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:52:26] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 20:52:26] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 20:52:26] UpdatesJob: finished OK, apps updated 2 (10 KB), packages updated 0 (0 KB)
+[2022-04-15 20:52:26] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 20:52:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:52:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 20:52:41] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 20:55:23] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 20:55:23] Apps changed: 
+[2022-04-15 20:55:23] Change number 14530720->14530740, apps: 0/17, packages: 0/0
+[2022-04-15 20:55:23] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:55:24] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 20:55:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 20:55:24] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 20:55:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:55:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 20:58:03] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 20:58:03] Packages changed: force all
+[2022-04-15 20:58:03] Apps changed: 1098260=14530742,280790=14530741,
+[2022-04-15 20:58:03] Change number 14530740->14530760, apps: 2/16, packages: 0/0
+[2022-04-15 20:58:03] Requesting 51 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:58:04] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 20:58:04] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2022-04-15 20:58:04] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2022-04-15 20:58:04] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 20:58:04] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 20:58:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 20:58:04] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:06:01] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:06:01] Packages changed: force all
+[2022-04-15 21:06:01] Apps changed: 728470=14530771,622970=14530769,
+[2022-04-15 21:06:01] Change number 14530760->14530807, apps: 2/40, packages: 0/0
+[2022-04-15 21:06:01] Requesting 52 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:06:02] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:06:02] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 21:06:02] UpdatesJob: finished OK, apps updated 2 (11 KB), packages updated 0 (0 KB)
+[2022-04-15 21:06:02] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:06:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:06:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:06:02] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:08:38] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:08:39] Packages changed: 
+[2022-04-15 21:08:39] Apps changed: 803050=14530817,
+[2022-04-15 21:08:39] Change number 14530807->14530821, apps: 1/12, packages: 0/4
+[2022-04-15 21:08:39] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:08:39] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:08:39] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 21:08:40] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-04-15 21:08:40] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:08:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:08:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:08:40] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:10:35] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:10:35] Packages changed: 
+[2022-04-15 21:10:35] Apps changed: 238430=14530830,622970=14530826,
+[2022-04-15 21:10:35] Change number 14530821->14530832, apps: 2/9, packages: 0/1
+[2022-04-15 21:10:35] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:10:36] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:10:36] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2022-04-15 21:10:36] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 21:10:36] UpdatesJob: finished OK, apps updated 2 (13 KB), packages updated 0 (0 KB)
+[2022-04-15 21:10:36] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:10:36] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:10:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:10:51] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:13:04] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:13:04] Packages changed: 
+[2022-04-15 21:13:04] Apps changed: 
+[2022-04-15 21:13:04] Change number 14530832->14530846, apps: 0/10, packages: 0/2
+[2022-04-15 21:13:05] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:13:05] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:13:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:13:05] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:13:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:13:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:13:52] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:13:52] Packages changed: 
+[2022-04-15 21:13:52] Apps changed: 
+[2022-04-15 21:13:52] Change number 14530846->14530851, apps: 0/5, packages: 0/3
+[2022-04-15 21:13:52] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:13:53] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:13:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:13:53] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:13:53] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:13:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:16:01] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:16:01] Packages changed: 
+[2022-04-15 21:16:01] Apps changed: 
+[2022-04-15 21:16:01] Change number 14530851->14530867, apps: 0/14, packages: 0/4
+[2022-04-15 21:16:01] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:16:02] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:16:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:16:02] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:16:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:16:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:19:34] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:19:34] Packages changed: 
+[2022-04-15 21:19:34] Apps changed: 250820=14530886,
+[2022-04-15 21:19:34] Change number 14530867->14530895, apps: 1/25, packages: 0/3
+[2022-04-15 21:19:34] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:19:35] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:19:35] Downloaded 1 apps via HTTP, 28 KB (8 KB compressed)
+[2022-04-15 21:19:35] UpdatesJob: finished OK, apps updated 1 (28 KB), packages updated 0 (0 KB)
+[2022-04-15 21:19:35] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:19:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:19:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:19:35] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:22:54] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:22:54] Packages changed: 
+[2022-04-15 21:22:54] Apps changed: 
+[2022-04-15 21:22:54] Change number 14530895->14530919, apps: 0/19, packages: 0/1
+[2022-04-15 21:22:54] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:22:55] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:22:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:22:55] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:22:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:22:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:24:05] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:24:05] Packages changed: 
+[2022-04-15 21:24:05] Apps changed: 
+[2022-04-15 21:24:05] Change number 14530919->14530931, apps: 0/10, packages: 0/3
+[2022-04-15 21:24:05] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:24:06] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:24:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:24:06] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:24:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:24:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:33:34] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:33:34] Packages changed: 
+[2022-04-15 21:33:34] Apps changed: 376030=14530936,
+[2022-04-15 21:33:34] Change number 14530931->14531011, apps: 1/73, packages: 0/1
+[2022-04-15 21:33:35] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:33:35] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:33:35] Downloaded 1 apps via HTTP, 10 KB (2 KB compressed)
+[2022-04-15 21:33:35] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-04-15 21:33:35] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:33:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:33:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:33:36] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:34:41] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:34:41] Apps changed: 
+[2022-04-15 21:34:41] Change number 14531011->14531017, apps: 0/5, packages: 0/0
+[2022-04-15 21:34:42] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:34:42] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:34:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:34:42] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:34:42] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:34:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:35:38] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:35:39] Apps changed: 
+[2022-04-15 21:35:39] Change number 14531017->14531024, apps: 0/7, packages: 0/0
+[2022-04-15 21:35:39] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:35:39] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:35:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:35:39] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:35:40] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:35:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:37:06] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:37:07] Apps changed: 250820=14531029,622970=14531027,
+[2022-04-15 21:37:07] Change number 14531024->14531029, apps: 2/13, packages: 0/0
+[2022-04-15 21:37:07] Requesting 52 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:37:07] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:37:08] Downloaded 1 apps via HTTP, 28 KB (8 KB compressed)
+[2022-04-15 21:37:08] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-04-15 21:37:08] UpdatesJob: finished OK, apps updated 2 (32 KB), packages updated 0 (0 KB)
+[2022-04-15 21:37:08] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:37:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:37:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:37:08] Starting async write C:\Users\8qBIT\Desktop\server python\addons\steam/appcache/appinfo.vdf (3669390 bytes)
+
+
+[2022-04-15 21:38:12] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:38:13] Apps changed: 
+[2022-04-15 21:38:13] Change number 14531029->14531030, apps: 0/1, packages: 0/0
+[2022-04-15 21:38:13] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:38:13] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:38:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:38:13] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:38:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:38:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:39:06] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:39:06] Packages changed: 
+[2022-04-15 21:39:06] Apps changed: 
+[2022-04-15 21:39:06] Change number 14531030->14531038, apps: 0/7, packages: 0/3
+[2022-04-15 21:39:06] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:39:07] Requested 49 app access tokens, 0 received, 49 denied
+[2022-04-15 21:39:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-04-15 21:39:07] RequestAppInfoUpdate: AppIDs 258550
+[2022-04-15 21:39:07] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-04-15 21:39:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-04-15 21:39:21] RequestAppInfoUpdate: AppIDs 7
+[2022-04-15 21:39:22] Apps changed: 
+[2022-04-15 21:39:22] Change number 14531038->14531041, apps: 0/3, packages: 0/0
+[2022-04-15 21:39:22] Requesting 50 apps, 0 packages (meta data, 1024 prev attempts)
