@@ -11,8 +11,12 @@ Features:
 Installation:
   - Download repository
   - Run the app.py
-  - Configure server settings inside 'rust_data/config.cfg'
+  - Configure server settings (check configuration bellow)
   - Thats it, really!
  
+Configuration:
+  - Server start parameters can be edited inside 'rust_data/config.cfg'
+  - For auto restarts i recommend https://umod.org/plugins/smooth-restarter
+  - If you are running vanilla (community) server make sure to set 'modded' to false inside oxide config!
 
 Note: This project is in no way affiliated with the one being sold out there.
