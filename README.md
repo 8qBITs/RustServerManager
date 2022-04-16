@@ -24,7 +24,8 @@ Configuration:
   - If you are running vanilla (community) server make sure to set 'modded' to false inside oxide config!
  
 Troubleshooting:
-  - Nothing happened after launching start.bat, 
-     - run app.py using cmd with `python app.py` if there is an error: `'python' is not recognised as an internal or external command` you haven't set up python path                properly. Watch for fix: https://www.youtube.com/watch?v=4bUOrMj88Pc&t=351s
+  - Nothing happens after starting start.bat:
+     - *1. No python3 installed* Download it here: https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe 
+     - *2. No python path found.* Run python using cmd with `python` if there is an error: `'python' is not recognised as an internal or external command` you haven't           set up python path properly. Watch for fix: https://www.youtube.com/watch?v=4bUOrMj88Pc&t=351s
 
 Note: This project is in no way affiliated with the one being sold out there.
