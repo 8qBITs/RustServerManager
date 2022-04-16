@@ -25,6 +25,6 @@ Configuration:
  
 Troubleshooting:
   - Nothing happened after launching start.bat, 
-     - run app.py using cmd with `python app.py` if there is error `'python' is not recognised as an internal or external command` you haven't set up python path                properly.
+     - run app.py using cmd with `python app.py` if there is an error: `'python' is not recognised as an internal or external command` you haven't set up python path                properly. Watch for fix: https://www.youtube.com/watch?v=4bUOrMj88Pc&t=351s
 
 Note: This project is in no way affiliated with the one being sold out there.
