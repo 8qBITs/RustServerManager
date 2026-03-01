@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Addons
+addons/
+
+# Config
+config.json
+
+# OS
+.DS_Store
+Thumbs.db
+# Documentation (keep only README.md)
+BUG_FIXES.md
+DEVELOPMENT.md
+IMPLEMENTATION_SUMMARY.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+READY_TO_RUN.md
+TESTING.md
+docs/CONSOLE_TRIGGERS.md
+
+# Test files
+test_*.py
+*_test.py
+
+# Build outputs and executables
+*.exe
+*.dist
+*.pyinstaller/
