@@ -53,18 +53,19 @@ python app.py
 
 ### Remote Access with RCON
 
+RCON connection is configured automatically in Settings. Simply:
+
 1. Go to **RCON Console** tab
-2. Enter host, port, password
-3. Click **🔗 Connect**
-4. Send commands like `say Hello World`, `players.limit 20`, etc.
+2. Send commands like `say Hello World`, `players.limit 20`, etc.
+3. View server responses in real-time
 
 ## Features
 
 ### 📊 Dashboard
 - Real-time server status (Online/Offline)
-- Process ID, memory usage, CPU usage  
+- Process monitoring (memory usage, CPU usage)  
 - Installation status (executable, Oxide)
-- Auto-refreshing every 2 seconds
+- Auto-refreshing display
 
 ### 🎮 Controls
 - Install/update Rust server from Steam
@@ -118,10 +119,10 @@ The Automation tab features an integrated control center with **4 subtabs**:
 - Async backup operations with progress updates
 
 ### 💻 RCON Console
-- Connect/disconnect from any Rust server
-- Send arbitrary RCON commands
+- Automatic connection using configured server settings
+- Send RCON commands to your server
 - View server responses in real-time
-- Command history with dropdown
+- Command history
 - Async I/O (non-blocking)
 
 ## Console Triggers (Automation Monitoring)
@@ -478,11 +479,10 @@ This README contains all essential documentation. For advanced features, see:
 
 ## Performance
 
-- **UI Memory**: ~100-150 MB idle
-- **Config Load**: <100ms
-- **Dashboard Refresh**: Configurable (default 2 seconds)
-- **RCON Response**: Typical <500ms
-- **Backup Speed**: Depends on disk I/O (typically 1-5 minutes)
+- **Dashboard Refresh**: Configurable refresh intervals
+- **RCON Response**: Fast, non-blocking I/O
+- **Backup Speed**: Depends on disk I/O and backup size
+- **UI**: Responsive, lightweight design
 
 ## Security Notes
 
@@ -518,9 +518,8 @@ Contributions are welcome! Please:
 
 ## Support
 
-- **GitHub**: https://github.com/8qBITs/RustServerManager
-- **Discord**: 8qBIT#0101
-- **Issues**: Report bugs on GitHub
+- **GitHub Issues**: Report bugs on [GitHub](https://github.com/8qBITs/RustServerManager)
+- **Documentation**: See included docs and README
 
 ## Version History
 
@@ -535,7 +534,7 @@ Contributions are welcome! Please:
 - **Improved UX**: Feature toggles show/hide automation subtabs dynamically
 - **Build Support**: PyInstaller instructions for creating standalone .exe
 
-**v2.0** (March 1, 2026)
+**v2.0** (Released March 2026)
 - Complete rewrite with modern architecture
 - PySide6 desktop UI
 - RCON console
@@ -556,11 +555,10 @@ See [LICENSE](LICENSE) file
 ## Author
 
 **8qBIT**  
-Discord: 8qBIT#0101  
 GitHub: https://github.com/8qBITs
 
 ---
 
 **Note:** This project is independently maintained and is not affiliated with Rust, Oxide/uMod, or Facepunch Studios.
 
-**Last Updated**: March 2, 2026
+**Last Updated**: March 1, 2026

@@ -228,15 +228,30 @@ class ServerManager:
             )
             
             self._emit_progress(progress_callback, f"Executing: {cmd}")
-            result = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=3600)
+            
+            # Hide console window for SteamCMD on Windows
+            run_kwargs = {"shell": True, "capture_output": True, "text": True, "timeout": 3600}
+            if os.name == "nt":
+                startupinfo = subprocess.STARTUPINFO()
+                startupinfo.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+                startupinfo.wShowWindow = subprocess.SW_HIDE
+                run_kwargs["startupinfo"] = startupinfo
+                run_kwargs["creationflags"] = subprocess.CREATE_NO_WINDOW
+            
+            result = subprocess.run(cmd, **run_kwargs)
             self._emit_subprocess_output(result.stdout, result.stderr, "STEAMCMD")
             
-            if result.returncode == 0:
+            # Check if installation succeeded by verifying the main executable exists
+            # SteamCMD may return non-zero even on success, so check for actual files
+            server_exe = self.rust_dir / "RustDedicated.exe"
+            if server_exe.exists():
                 self._emit_progress(progress_callback, "Rust server installed successfully")
                 log.info("Rust server installation completed")
                 return True
             else:
-                msg = f"Failed to install Rust server: {result.stderr}"
+                # If executable doesn't exist, report error
+                error_msg = result.stderr.strip() if result.stderr.strip() else "Installation incomplete - RustDedicated.exe not found"
+                msg = f"Failed to install Rust server: {error_msg}"
                 self._emit_progress(progress_callback, msg)
                 log.error(msg)
                 return False
@@ -395,7 +410,13 @@ class ServerManager:
             }
 
             if os.name == "nt":
+                # Hide console window on Windows
                 popen_kwargs["creationflags"] = subprocess.CREATE_NO_WINDOW
+                # Additional STARTUPINFO for extra safety
+                startupinfo = subprocess.STARTUPINFO()
+                startupinfo.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+                startupinfo.wShowWindow = subprocess.SW_HIDE
+                popen_kwargs["startupinfo"] = startupinfo
 
             # Start server process (don't wait for it)
             self.server_process = subprocess.Popen(args, **popen_kwargs)
